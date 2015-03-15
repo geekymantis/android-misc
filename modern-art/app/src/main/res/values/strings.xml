@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ModernArt</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="more_information">More Information</string>
+
+    <string name="dialog_menu_moma">Inspired by the works of artists such as Piet Mondrian and Ben Nicholson.\nClick below to learn more!</string>
+    <string name="dialog_visit_moma">Visit MOMA</string>
+    <string name="dialog_cancel">Not now</string>
+</resources>
